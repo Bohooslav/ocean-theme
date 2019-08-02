@@ -1,0 +1,15 @@
+{
+  "name": "ocean",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Night dark theme in colors of deeep ocean",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Bohooslav/ocean-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
