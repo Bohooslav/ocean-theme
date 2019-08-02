@@ -1,8 +1,10 @@
-# ocean theme
+# Ocean theme
 
-A short description of your theme.
+#### Night dark theme in colors of the deeep ocean.
 
-![A screenshot of your theme](/pictures/example1.png)
-![A screenshot of your theme](/pictures/example2.png)
+*Just look at this two examples*
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of the theme](/pictures/example1.png)
+
+
+![A screenshot of the theme](/pictures/example2.png)
