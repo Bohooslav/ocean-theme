@@ -1,6 +1,7 @@
 # Ocean theme
 
-#### Night dark theme in colors of the deeep ocean.
+#### Night dark theme in the colors of the deep ocean.
+
 
 *Just look at this two examples*
 
