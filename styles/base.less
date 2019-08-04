@@ -17,7 +17,7 @@ atom-text-editor {
   }
 
   .gutter {
-    background-color: @ocean-background-color;
+    background-color: darken(@ocean-background-color, 1%);
     color: @syntax-gutter-text-color;
 
     .line-number {
@@ -145,10 +145,13 @@ atom-text-editor {
     }
 
     &.syntax--string,
-    &.syntax--variable,
     &.syntax--parameters,
     &.syntax--array {
       color: @syntax-text-color;
+    }
+
+    &.syntax--variable{
+      color: @light-yellow;
     }
 
     &.syntax--heading,

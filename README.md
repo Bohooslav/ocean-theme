@@ -5,7 +5,7 @@
 
 *Just look at this two examples*
 
-![A screenshot of the theme](/pictures/example1.png)
+![A screenshot of the theme](https://photos.app.goo.gl/Pfes61RJ14WaWc5E7)
 
 
-![A screenshot of the theme](/pictures/example2.png)
+![A screenshot of the theme](https://photos.app.goo.gl/2Vu18v7jgVNDPC1h8)
